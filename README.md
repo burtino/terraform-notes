@@ -3,7 +3,7 @@
 [Terraform](https://www.terraform.io) A tool to manage infrasrtucture as code from [Hashicorp](https://www.hashicorp.com/).
 
 ## tfenv
-[tfenv](https://github.com/tfutils/tfenv) terraform version manager inspired by rbenv.
+[tfenv](https://github.com/tfutils/tfenv) terraform version manager inspired by [rbenv](https://github.com/rbenv/rbenv).
 
 ## terragrunt
 [terragrunt](https://github.com/gruntwork-io/terragrunt) is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules. It can help you re-use more infrastructure code and provides other benefits. Its maintainers are harcore terraform. From the team at [gruntwork](https://gruntwork.io/).
