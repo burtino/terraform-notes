@@ -1,4 +1,4 @@
-# terraform-tools
+# terraform-notes
 
 [Terraform](https://www.terraform.io) A tool to manage infrasrtucture as code from [Hashicorp](https://www.hashicorp.com/).
 
