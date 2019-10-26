@@ -1,6 +1,6 @@
 # terraform-notes
 
-[Terraform](https://www.terraform.io) A tool to manage infrasrtucture as code from [Hashicorp](https://www.hashicorp.com/).
+[Terraform](https://www.terraform.io) is a tool to manage infrasrtucture as code from [Hashicorp](https://www.hashicorp.com/).
 
 ## tfenv
 [tfenv](https://github.com/tfutils/tfenv) terraform version manager inspired by [rbenv](https://github.com/rbenv/rbenv).
